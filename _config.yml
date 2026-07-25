@@ -1,7 +1,0 @@
-include:
-  - sitemap.xml
-  - robots.txt
-  - google179df44cf98c064e.html
-
-exclude:
-  - node_modules
